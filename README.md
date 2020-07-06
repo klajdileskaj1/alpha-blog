@@ -1,7 +1,11 @@
 # README
 
 
+<<<<<<< HEAD
 This is modified alpha-blog app with some basic CRUD action !!!!
+=======
+Next app is ...
+>>>>>>> d1190d37fbd2264e5a2caaeb37d6f1e1ac300e4b
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
